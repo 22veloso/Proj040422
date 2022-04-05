@@ -1,0 +1,12 @@
+C:\Users\logatti\source\repos\Proj040422\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\logatti\source\repos\Proj040422\Model\bin\Debug\net6.0\Model.dll
+C:\Users\logatti\source\repos\Proj040422\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.dll
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\logatti\source\repos\Proj040422\Model\obj\Debug\net6.0\ref\Model.dll
